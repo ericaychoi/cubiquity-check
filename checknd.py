@@ -23,6 +23,9 @@ if(n == 2):
 elif(n == 3):
     points = threeGen(basisv, n)
     corners = threeCubes(basisv,n)
+elif(n == 4):
+    points = fourGen(basisv, n)
+    corners = fourCubes(basisv, n)
 
 print(points)
 print('---------------------------------------------------------------------')

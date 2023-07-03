@@ -14,6 +14,7 @@ for b in bList:
     else:
         elses.append(m)
 
-print(len(bList))
-print(len(projs))
-print(len(elses))
+print(str(len(elses)) + " out of " + str(len(bList)))
+for p in elses:
+    print("---------------")
+    print(p)
