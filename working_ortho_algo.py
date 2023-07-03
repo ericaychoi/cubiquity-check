@@ -27,6 +27,10 @@ def orthogonal_bases(vector_set, dim):
                 basis.remove(vector)
                 orthogonal_bases(working_list, dim)
                 basis.remove(vector)
+            else:
+                orthogonal_bases(working_list, dim)
+                basis.remove(vector)
         else:
             bases.append(basis.copy())
             basis.remove(vector)
+
