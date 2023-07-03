@@ -10,7 +10,7 @@ def remove_negatives(vectors):
     return simple_list
 
 def list_ortho(vector, set):
-    #n = len(vector)
+    n = len(vector)
     ortho = [i for i in set if np.dot(i, vector) == 0]
     return ortho
 
@@ -33,26 +33,3 @@ def orthogonal_recursion(vector_set, dim, basis, bases):
         else:
             bases.append(basis.copy())
             basis.remove(vector)
-
-import main
-import checkmod
-
-bases = orthogonal_bases(main.simple_vectors3, 5)
-print(bases)
-for b in bases:
-    arr = np.array(b)
-    print("---------------")
-    print(arr)
-    checkmod.detObsMessage(arr, 5)
-    checkmod.wuObsMessage(checkmod.makeWu(b))
-
-
-
-
-print(len(bases))
-
-
-
-
-
-
