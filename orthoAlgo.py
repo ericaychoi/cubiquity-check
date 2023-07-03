@@ -27,7 +27,8 @@ def orthogonal_recursion(vector_set, dim, basis, bases):
             working_list = list_ortho(vector, vector_set[vector_set.index(vector):])
             if len(working_list) + len(basis) < dim:
                 basis.remove(vector)
-                orthogonal_bases(working_list, dim)
+            else:
+                orthogonal_recursion(working_list, dim, basis, bases)
                 basis.remove(vector)
         else:
             bases.append(basis.copy())
