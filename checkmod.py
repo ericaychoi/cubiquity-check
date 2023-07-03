@@ -45,6 +45,28 @@ def smallB(n):
         goodList.append(arr)
     return goodList
 
+#generates basis vectors (dtype=list of lists) with components in {-2,-1,0,1,2} and satisfies Lemma 1's inequality
+def smallBList(n):
+    generator = []
+    good = set()
+    goodList = []
+    for i in range(n):
+        generator.append(-2)
+        generator.append(-1)
+        generator.append(0)
+        generator.append(1)
+        generator.append(2)
+    for comb in itertools.permutations(generator, n):
+        norm = 0
+        for i in range(n):
+            norm += comb[i]**2
+        if(norm <= (n+3)):
+            good.add(comb)
+    for v in good:
+        arr = np.array(v)
+        goodList.append(np.ndarray.tolist(arr))
+    return goodList
+
 #generates nxn matrices of orthogonal basis vectors (dtype=list of np arrays)
 def orthogonal(basis, n):
     orthList = []
@@ -80,7 +102,7 @@ def checkOrth(v, w):
         return False
 
 #takes in basis of form dict of str and outputs np matrix M
-def makeM(basis):
+def makeM(basis, n):
     basisv = {}
     for i in range(1, n+1):
         basisv[i] = np.array(basis[i])
