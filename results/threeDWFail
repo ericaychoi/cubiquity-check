@@ -1,0 +1,1232 @@
+---------------------------------------------------
+[1, 0, 1]
+[0, 1, 0]
+[1, 0, -1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 1, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, -1]
+[0, 1, 0]
+[1, 0, 1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 1, 0]
+[0, 0, 2]
+[1, -1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 1, 0]
+[0, 0, -2]
+[1, -1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 1, 0]
+[0, 0, -1]
+[1, -1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -1, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, -1, 0]
+[0, 0, 2]
+[1, 1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, -1, 0]
+[0, 0, -2]
+[1, 1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, -1, 0]
+[0, 0, -1]
+[1, 1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, 1]
+[1, 0, -1]
+[0, 2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 0, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, -1]
+[1, 0, 1]
+[0, 2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, 1]
+[1, 0, -1]
+[0, 1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 0, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, -1]
+[1, 0, 1]
+[0, 1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 1, 0]
+[1, -1, 0]
+[0, 0, -2]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 0, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 1, 0]
+[1, -1, 0]
+[0, 0, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 0, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, -1]
+[1, 0, 1]
+[0, -2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, -1]
+[1, 0, 1]
+[0, -1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 1]
+[0, 1, 0]
+[-1, 0, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, -1]
+[0, 1, 0]
+[-1, 0, 1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 1, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 1, 0]
+[0, 0, 2]
+[-1, -1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, 2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 1, 0]
+[0, 0, -2]
+[-1, -1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 1, 0]
+[0, 0, -1]
+[-1, -1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, -1, 0]
+[0, 0, 2]
+[-1, 1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, -1, 0]
+[0, 0, -2]
+[-1, 1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, -1, 0]
+[0, 0, -1]
+[-1, 1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -1, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 1]
+[-1, 0, -1]
+[0, 2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, -1]
+[-1, 0, 1]
+[0, 2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 0, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 1]
+[-1, 0, -1]
+[0, 1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, -1]
+[-1, 0, 1]
+[0, 1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 0, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 1, 0]
+[-1, -1, 0]
+[0, 0, -2]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 1, 0]
+[-1, -1, 0]
+[0, 0, -1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [0, -2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, -1]
+[-1, 0, 1]
+[0, -2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 0, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, -1]
+[-1, 0, 1]
+[0, -1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 0, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, -2, 0]
+[1, 0, 1]
+[1, 0, -1]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, -2, 0]
+[1, 0, -1]
+[1, 0, 1]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 0, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, -1, 0]
+[1, 0, 1]
+[1, 0, -1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, -1, 0]
+[1, 0, -1]
+[1, 0, 1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 0, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 2, 0]
+[1, 0, 1]
+[1, 0, -1]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 2, 0]
+[1, 0, -1]
+[1, 0, 1]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 0, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 0, 1]
+[1, 1, 0]
+[1, -1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 0, 1]
+[1, -1, 0]
+[1, 1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 0, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, 1]
+[0, 2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, 2]
+[0, 2, 0]
+obstructing by det...
+det: 8.0
+normdet: 1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -2]
+[0, 2, 0]
+obstructing by det...
+det: -8.0
+normdet: -1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -1]
+[0, 2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 1, -1]
+[0, -1, -1]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 0, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, -1, -1]
+[0, 1, -1]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 1, 0]
+[0, 0, 1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 1, 0]
+[0, 0, -2]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 1, 0]
+[0, 0, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, 2]
+[0, 1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -2]
+[0, 1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -1]
+[0, 1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 2, 0]
+[0, 0, -2]
+obstructing by det...
+det: 8.0
+normdet: 1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 2, 0]
+[0, 0, -1]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, 2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -2]
+[0, -2, 0]
+obstructing by det...
+det: 8.0
+normdet: 1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -1]
+[0, -2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -2]
+[0, -1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-2, 0, 0]
+[0, 0, -1]
+[0, -1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-2, -1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, 1]
+[0, 2, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, 2]
+[0, 2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -2]
+[0, 2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -1]
+[0, 2, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 1, -1]
+[0, -1, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 0, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, -1, -1]
+[0, 1, -1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 1, 0]
+[0, 0, 1]
+obstructing by det...
+det: -1.0
+normdet: -0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 1, 0]
+[0, 0, -2]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 1, 0]
+[0, 0, -1]
+obstructing by det...
+det: 1.0
+normdet: 0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, 2]
+[0, 1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -2]
+[0, 1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -1]
+[0, 1, 0]
+obstructing by det...
+det: -1.0
+normdet: -0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 2, 0]
+[0, 0, -2]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 2, 0]
+[0, 0, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, 2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -2]
+[0, -2, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -1]
+[0, -2, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -2]
+[0, -1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[-1, 0, 0]
+[0, 0, -1]
+[0, -1, 0]
+obstructing by det...
+det: 1.0
+normdet: 0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [-1, -1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 2, 0]
+[0, 0, 1]
+[2, 0, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 2, 0]
+[0, 0, 2]
+[2, 0, 0]
+obstructing by det...
+det: 8.0
+normdet: 1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 2, 0]
+[0, 0, -2]
+[2, 0, 0]
+obstructing by det...
+det: -8.0
+normdet: -1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 2, 0]
+[0, 0, -1]
+[2, 0, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 0, 1]
+[0, 1, 0]
+[2, 0, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 0, 1]
+[0, 2, 0]
+[2, 0, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[0, 0, -2]
+[2, 0, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -2, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[0, 0, -1]
+[2, 0, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -1, 2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 1, -1]
+[0, -1, -1]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 0, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, -1, -1]
+[0, 1, -1]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 1, 0]
+[0, 0, 1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 1, 0]
+[0, 0, -2]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 1, 0]
+[0, 0, -1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, 2]
+[0, 1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, -2]
+[0, 1, 0]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, -1]
+[0, 1, 0]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 2, 0]
+[0, 0, -2]
+obstructing by det...
+det: -8.0
+normdet: -1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 2, 0]
+[0, 0, -1]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, 2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, -2]
+[0, -2, 0]
+obstructing by det...
+det: -8.0
+normdet: -1.0
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, -1]
+[0, -2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, -2]
+[0, -1, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[2, 0, 0]
+[0, 0, -1]
+[0, -1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [2, -1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[1, 0, -1]
+[-1, 0, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 0, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[-1, 0, -1]
+[1, 0, -1]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -2, 0]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 0, 1]
+[1, 0, 0]
+[0, 1, 0]
+obstructing by det...
+det: 1.0
+normdet: 0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[1, 0, 0]
+[0, 0, -2]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[1, 0, 0]
+[0, 0, -1]
+obstructing by det...
+det: 1.0
+normdet: 0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 1, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 0, 1]
+[0, 2, 0]
+[1, 0, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[0, 0, -2]
+[1, 0, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -2, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[0, 0, -1]
+[1, 0, 0]
+obstructing by det...
+det: -1.0
+normdet: -0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -1, 1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[2, 0, 0]
+[0, 0, -2]
+obstructing by det...
+det: 4.0
+normdet: 0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[0, 1, 0]
+[2, 0, 0]
+[0, 0, -1]
+obstructing by det...
+det: 2.0
+normdet: 0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, 2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, 0]
+[0, 0, -2]
+[0, -2, 0]
+obstructing by det...
+det: -4.0
+normdet: -0.5
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -2, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, 0]
+[0, 0, -1]
+[0, -2, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -1, -2]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, 0]
+[0, 0, -2]
+[0, -1, 0]
+obstructing by det...
+det: -2.0
+normdet: -0.25
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -2, -1]
+wu obstruction fails; need further obstruction
+---------------------------------------------------
+[1, 0, 0]
+[0, 0, -1]
+[0, -1, 0]
+obstructing by det...
+det: -1.0
+normdet: -0.125
+det obstruction fails; need further obstruction
+obstructing by wu...
+wu: [1, -1, -1]
+wu obstruction fails; need further obstruction
