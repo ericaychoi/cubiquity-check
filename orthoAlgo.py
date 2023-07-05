@@ -1,3 +1,5 @@
+#Generates orthogonal bases using Lemma 2 stype vectors
+
 import numpy as np
 
 def remove_negatives(vectors):

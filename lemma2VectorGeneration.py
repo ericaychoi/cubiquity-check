@@ -1,6 +1,5 @@
-# This is a sample Python script.
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+#Generates Lemma 2 - style vectors to be fed into orthoAlgo.py
+
 import numpy as np
 
 entries = [-2,-1, 0, 1, 2]
@@ -75,7 +74,7 @@ def remove_negatives(vectors):
     return simple_list
 
 
-def SimpleList(n):
+def simpleList(n):
     simple_list = remove_zero(remove_negatives(create_vectors(n)))
     return simple_list
 
