@@ -17,7 +17,7 @@ Current pipeline for handling determinant and Wu element obstructions is as foll
     * Performs Determinant and Wu element obstruction
     * Outputs a nicely formatted file with relevant information
     * results folder contains outputs in the form of (n)DWObs
-* failGen.pyS
+* failGen.py
     * Performs Determinant and Wu element obstruction
     * Outputs a nested list of bases that are unobstructed by ndDetWuCheck.py that can be manipulated further
     * results folder contains outputs in the form of (n)DWFailList
